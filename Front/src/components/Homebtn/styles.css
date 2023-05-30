@@ -1,0 +1,22 @@
+.Home {
+height: 5vh;
+width: 10%;
+font-size: 20px;
+color: rgb(173, 141, 214);
+display: flex;
+justify-content: center;
+align-items: center;
+margin : 30px 50px 0 70px;
+/* border: 1px solid black; */
+}
+
+
+.Home p{
+    font-size: 30px;
+    border-radius: 20%;
+}
+
+.Home p:hover{
+    font-size: 34px;
+    transition: all ease 0.5s;
+}
