@@ -6,6 +6,7 @@
 
 # 📖 개발 배경
 <img src="https://github.com/Ahnseungc/PDF_OCR_Caption/assets/94547692/a664f39e-e571-410c-9e78-a2fa2c39c6a3" width="100%"/>
+
 ![image](https://github.com/iammindy/Speak-Doc/assets/77042619/825d3a2d-9760-45ec-ac1e-a9d127aa25a9)
 ![image](https://github.com/iammindy/Speak-Doc/assets/77042619/c0c65c6e-ed76-47f5-a74e-f4c7528371c4)
 ![image](https://github.com/iammindy/Speak-Doc/assets/77042619/81cf1262-bf35-49ee-8969-2d1702440c5a)
